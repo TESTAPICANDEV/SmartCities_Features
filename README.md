@@ -5,7 +5,7 @@ Code developed by: \
 Johan Fernandes \
 Nima Taherifard \
 Ahmed Omara \
-JiChu Jiang \
+JiChu Jiang
 
 Correlation based Feature Selection.ipynb: Feature Selection using Correlation between the main features and rank values and expert perceptions.
 
