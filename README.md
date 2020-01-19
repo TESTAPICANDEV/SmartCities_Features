@@ -1,4 +1,4 @@
-# SmartCities_Features
+# AI Model for Enabling Smart Cities
 Feature selection methods to identify smart cities
 
 Code developed by: \
