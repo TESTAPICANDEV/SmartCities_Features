@@ -1,11 +1,11 @@
 # SmartCities_Features
 Feature selection methods to identify smart cities
 
-Code developed by:
-Johan Fernandes
-Nima Taherifard
-Ahmed Omara
-JiChu Jiang
+Code developed by: \
+Johan Fernandes \
+Nima Taherifard \
+Ahmed Omara \
+JiChu Jiang \
 
 Correlation based Feature Selection.ipynb: Feature Selection using Correlation between the main features and rank values and expert perceptions.
 
