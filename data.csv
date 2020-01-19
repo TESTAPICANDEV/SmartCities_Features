@@ -1,0 +1,11 @@
+city,Avg age of the population,Density,GDP(bill),Average Salary,umemployment Rate,crime severity index
+Edmonton,35.3,1186,88,"67,700",0.077,129
+Saskatoon,34,1196.8,17.89,60000,0.058,133
+winnepeg,39,1430,61.86,"46,965",0.053,125
+toronto,39.7,4457,276.3,62000,0.064,66
+ottawa,36.7,1900,58.2,60000,0.044,56
+mo,39.9,4916,193,72168,0.053,75
+st johns,41.9,244.8,14.5,"37,050",0.059,75
+Halifax,39.9,1077,19.2,69500,0.059,67
+Iqualuit,30.1,382,1.75,76000,0.096,60
+yellowknife,32.6,182.4,4.71,"67,629",0.037,292
